@@ -12,19 +12,6 @@ Here are some ideas to get you started:
 * 🥅 My the 2021 goal is to become a cool React Frontend Developer.
 -->
 
-## MY TECHNOLOGY STACK AND TOOLS
-![HTML](/svg/html-5.svg)
-![CSS](/svg/css3.svg)
-![JS](/svg/JS.svg)
-![React](/svg/react.svg)
-![Redux](/svg/redux.svg)
-![Npm](./svg/1280px-Npm-logo.svg.png)
-![Gulp](/gulp/gulp.svg)
-![Sass](./svg/1200px-Sass_Logo_Color.svg.png)
-![Jquery](./svg/jquery-10-1175155.png)
-![Webpack](./svg/webpack.png)
-![Bootstrap](/svg/1024px-Bootstrap_logo.svg.png)
-![Git](/svg/git.svg)
 
 ## MY CONTACTS
 [<img src="./svg/Linkedin.svg">](https://www.linkedin.com/in/evgeniy-masyuk-0509121bb/)
