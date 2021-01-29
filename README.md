@@ -14,6 +14,8 @@ Here are some ideas to get you started:
 * 👯 I will be glad to share my experience and learn from other developers.
 * 🥅 My the 2021 goal is to become a cool React Frontend Developer.
 
+
+[![Ihar's github stats](https://github-readme-stats.vercel.app/api?username=melber17&show_icons=true&include_all_commits=true&theme=dark)]
 ## MY CONTACTS
 [<img src="./svg/Linkedin.svg">](https://www.linkedin.com/in/evgeniy-masyuk-0509121bb/)
 
