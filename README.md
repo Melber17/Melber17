@@ -11,4 +11,4 @@
 ## MY CONTACTS
 
 [<img src="./svg/Linkedin.svg">](https://www.linkedin.com/in/evgeniy-masyuk-0509121bb/)
-[<img width="100" src="./svg/telegram.svg">](https://t.me/Melber17)
+[<img width="90" src="./svg/telegram.svg">](https://t.me/Melber17)
