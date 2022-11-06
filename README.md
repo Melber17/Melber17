@@ -8,7 +8,7 @@
 
 ![Ihar's github stats](https://github-readme-stats.vercel.app/api?username=melber17&show_icons=true&include_all_commits=true&theme=dark)
 
-📫 How to reach me **melber17@mail.ru**
+📫 How to reach me **eugene.masyuk@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
